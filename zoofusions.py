@@ -37,19 +37,19 @@ elif choice == "Business Objectives":
     st.header("Business Objectives")
     st.write("""
     - **Short-term goals (Year 1)**: 
-        Launch the platform in key Canadian cities (Toronto, Vancouver, Montreal).
-        Achieve 5,000 registered users within the first year.
-        Build partnerships with 50+ certified veterinarians and pet care professionals.
-        Integrate an e-commerce store for essential pet supplies.
+       - Launch the platform in key Canadian cities (Toronto, Vancouver, Montreal).
+       - Achieve 5,000 registered users within the first year.
+       - Build partnerships with 50+ certified veterinarians and pet care professionals.
+       - Integrate an e-commerce store for essential pet supplies.
 
     - **Year 2-3**: 
-    Expand services nationwide.
-  - Increase registered users to 10,000.
-  - Launch premium membership for unlimited veterinary consultations and discounts on pet supplies.
+       - Expand services nationwide.
+       - Increase registered users to 10,000.
+       - Launch premium membership for unlimited veterinary consultations and discounts on pet supplies.
 
     - **Year 5**:  Establish Zoofusions as the go-to platform for pet care in Canada.
-  - Expand into additional markets like the U.S. or the U.K.
-  - Offer pet insurance services integrated with consultations.
+       - Expand into additional markets like the U.S. or the U.K.
+       - Offer pet insurance services integrated with consultations.
     """)
 
 # Repeat for other sections
