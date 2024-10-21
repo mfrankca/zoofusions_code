@@ -73,90 +73,71 @@ The Canadian pet care industry is booming, with pet ownership on the rise. In 20
 elif choice == "Detailed Market Research for Zoo Fusions":
     st.header("Detailed Market Research for Zoo Fusions")
     st.write("""
-             1. Global Pet Care Industry Overview:
+             # 1. Global Pet Care Industry Overview:
 The global pet care industry is experiencing rapid growth, driven by increased pet ownership, humanization of pets, and the trend toward online shopping for pet products and services. Here are the key statistics and insights:
 
-Market Size: The global pet care market was valued at approximately $235 billion in 2023 and is projected to grow at a CAGR (Compound Annual Growth Rate) of 6.1% between 2023 and 2027, reaching an estimated $350 billion by 2027.
-Pet Ownership Trends:
-In North America, approximately 70% of households own at least one pet (around 90.5 million households in the U.S.). Canada also sees high rates of pet ownership, with about 58% of households having pets.
-The increasing adoption of pets, especially dogs and cats, is driving demand for pet care services and products.
-2. E-commerce and Online Veterinary Services:
-E-commerce Growth in Pet Products: The global pet e-commerce market reached $30 billion in 2023, and it is expected to double to $60 billion by 2027, driven by the rise in online shopping convenience, curated product offerings, and subscription-based services.
-U.S. E-commerce Sales: E-commerce sales for pet care in the U.S. accounted for 37% of all pet product purchases in 2023.
-Online Veterinary Services: The global telemedicine market, including veterinary services, was valued at $1.3 billion in 2023, with a projected CAGR of 16.4% until 2028.
-Veterinary Services Market Size: The veterinary services market was valued at $125 billion globally in 2023, with an increasing portion of that shifting to online and telemedicine-based services.
-3. Target Audience for Zoo Fusions:
-Demographics:
-Pet Owners: Primarily millennials (aged 25-40) and Gen Z pet owners are driving the shift toward online services and products. Millennial pet owners spend 30% more on their pets than previous generations.
-Income Brackets: Households earning $75,000 and above tend to spend significantly on premium products and services for pets, including health, wellness, and high-quality foods.
-Geographic Target: Primary focus on North America (U.S. and Canada) with future expansion into the UK and Europe. The U.S. holds the largest share of the pet care market, at approximately 40% of the global market.
-Key Customer Segments:
-Busy Professionals: Looking for convenience in both pet health (tele-vet) and curated product offerings.
-Health-Conscious Pet Owners: Concerned about the quality of pet food, supplements, and wellness products.
-Tech-Savvy Millennials: Open to new technology-based services like telemedicine and app-based consultations for their pets.
-4. Competitive Landscape:
-Major Competitors (Online Pet Stores and Services):
+- **Market Size**: The global pet care market was valued at approximately $235 billion in 2023 and is projected to grow at a CAGR (Compound Annual Growth Rate) of 6.1% between 2023 and 2027, reaching an estimated $350 billion by 2027.
+- **Pet Ownership Trends**:
+  - In North America, approximately 70% of households own at least one pet (around 90.5 million households in the U.S.). Canada also sees high rates of pet ownership, with about 58% of households having pets.
+  - The increasing adoption of pets, especially dogs and cats, is driving demand for pet care services and products.
 
-Chewy.com: One of the largest online pet retailers, generating $9 billion in revenue in 2023. It offers auto-ship subscriptions for pet food, health products, and medications.
-Petco: With both brick-and-mortar and online presence, Petco provides pet products, grooming services, and veterinary care.
-Vetster: A growing platform offering tele-veterinary services. It raised $30 million in venture funding and is expanding its market reach.
-Competitive Differentiation for Zoo Fusions:
+# 2. E-commerce and Online Veterinary Services:
+- **E-commerce Growth in Pet Products**: The global pet e-commerce market reached $30 billion in 2023, and it is expected to double to $60 billion by 2027, driven by the rise in online shopping convenience, curated product offerings, and subscription-based services.
+- **U.S. E-commerce Sales**: E-commerce sales for pet care in the U.S. accounted for 37% of all pet product purchases in 2023.
+- **Online Veterinary Services**: The global telemedicine market, including veterinary services, was valued at $1.3 billion in 2023, with a projected CAGR of 16.4% until 2028.
+- **Veterinary Services Market Size**: The veterinary services market was valued at $125 billion globally in 2023, with an increasing portion of that shifting to online and telemedicine-based services.
 
-Veterinary Services + E-commerce: A comprehensive platform combining personalized veterinary services with high-quality, curated products for cats and dogs.
-Subscription Services: Offering both veterinary subscription packages (monthly or annual) and product subscriptions (for pet food and care essentials).
-Niche Focus: Tailored product recommendations based on pets’ health needs, integrating data from consultations.
-5. Pet Industry Product Segmentation (2023):
-Food and Treats: $100 billion market size, with a 5.7% CAGR expected through 2027.
-Pet Care Products: $20 billion market size, including grooming, health, and hygiene products.
-Veterinary Care Services: $30 billion market size, projected to grow at a 7.2% CAGR.
-Pet Toys and Accessories: $15 billion market size, with growing demand for eco-friendly and sustainable products.
-6. Pricing Strategy Insights:
-Veterinary Consultations Pricing:
-Standard Consultation Fee: $40 - $100 (depending on consultation length and veterinarian expertise).
-Subscription Plans:
-Basic Plan: $20/month for two consultations.
-Premium Plan: $50/month for unlimited consultations.
-E-commerce Product Pricing:
-Pet Food (Premium Brands): $30 - $80 per bag (5-10 kg).
-Toys and Accessories: $10 - $50, with customizable options priced higher.
-Grooming and Hygiene Products: $15 - $50.
-7. Projected Market Share for Zoo Fusions:
+# 3. Target Audience for Zoo Fusions:
+- **Demographics**:
+  - **Pet Owners**: Primarily millennials (aged 25-40) and Gen Z pet owners are driving the shift toward online services and products. Millennial pet owners spend 30% more on their pets than previous generations.
+  - **Income Brackets**: Households earning $75,000 and above tend to spend significantly on premium products and services for pets, including health, wellness, and high-quality foods.
+  - **Geographic Target**: Primary focus on North America (U.S. and Canada) with future expansion into the UK and Europe. The U.S. holds the largest share of the pet care market, at approximately 40% of the global market.
+- **Key Customer Segments**:
+  - **Busy Professionals**: Looking for convenience in both pet health (tele-vet) and curated product offerings.
+  - **Health-Conscious Pet Owners**: Concerned about the quality of pet food, supplements, and wellness products.
+  - **Tech-Savvy Millennials**: Open to new technology-based services like telemedicine and app-based consultations for their pets.
+
+# 4. Competitive Landscape:
+- **Major Competitors (Online Pet Stores and Services)**:
+  - **Chewy.com**: One of the largest online pet retailers, generating $9 billion in revenue in 2023. It offers auto-ship subscriptions for pet food, health products, and medications.
+  - **Petco**: With both brick-and-mortar and online presence, Petco provides pet products, grooming services, and veterinary care.
+  - **Vetster**: A growing platform offering tele-veterinary services. It raised $30 million in venture funding and is expanding its market reach.
+- **Competitive Differentiation for Zoo Fusions**:
+  - **Veterinary Services + E-commerce**: A comprehensive platform combining personalized veterinary services with high-quality, curated products for cats and dogs.
+  - **Subscription Services**: Offering both veterinary subscription packages (monthly or annual) and product subscriptions (for pet food and care essentials).
+  - **Niche Focus**: Tailored product recommendations based on pets’ health needs, integrating data from consultations.
+
+# 5. Pet Industry Product Segmentation (2023):
+- **Food and Treats**: $100 billion market size, with a 5.7% CAGR expected through 2027.
+- **Pet Care Products**: $20 billion market size, including grooming, health, and hygiene products.
+- **Veterinary Care Services**: $30 billion market size, projected to grow at a 7.2% CAGR.
+- **Pet Toys and Accessories**: $15 billion market size, with growing demand for eco-friendly and sustainable products.
+
+# 6. Pricing Strategy Insights:
+- **Veterinary Consultations Pricing**:
+  - Standard Consultation Fee: $40 - $100 (depending on consultation length and veterinarian expertise).
+- **Subscription Plans**:
+  - Basic Plan: $20/month for two consultations.
+  - Premium Plan: $50/month for unlimited consultations.
+- **E-commerce Product Pricing**:
+  - Pet Food (Premium Brands): $30 - $80 per bag (5-10 kg).
+  - Toys and Accessories: $10 - $50, with customizable options priced higher.
+  - Grooming and Hygiene Products: $15 - $50.
+
+# 7. Projected Market Share for Zoo Fusions:
 Given the market trends, Zoo Fusions aims to capture a small but growing portion of the pet care and e-commerce market:
 
-Year 1 Goal: Capture 0.05% of the global pet care e-commerce market ($30 million) and veterinary telemedicine market ($1.3 million).
-Projected Revenue (Year 1):
-Veterinary Services: $150,000 (through consultations and subscriptions).
-E-commerce Sales: $350,000 (average order value $50, 7,000 customers).
-Year 3 Goal: Expand to 0.1% market share, aiming for:
-Veterinary Services: $400,000 revenue.
-E-commerce Sales: $900,000 revenue.
-8. Market Trends and Opportunities:
-Humanization of Pets: Pet owners are treating their pets like family, driving demand for premium products and healthcare services.
-Sustainability: There is a growing market for eco-friendly pet products (toys, grooming products, food packaging) as consumers become more environmentally conscious.
-Pet Wellness: Supplements, natural food, and specialized diets (e.g., grain-free, organic) are increasingly popular.
-Tech-Enabled Services: Pet owners are embracing tech-based solutions such as telemedicine, wearables for pets, and online health records, presenting opportunities for Zoo Fusions to integrate advanced health monitoring tools.
-9. SWOT Analysis:
-Strengths:
+- **Year 1 Goal**: Capture 0.05% of the global pet care e-commerce market ($30 million) and veterinary telemedicine market ($1.3 million).
+  - **Projected Revenue (Year 1)**:
+    - Veterinary Services: $150,000 (through consultations and subscriptions).
+    - E-commerce Sales: $350,000 (average order value $50, 7,000 customers).
+- **Year 3 Goal**: Expand to 0.1% market share, aiming for:
+  - Veterinary Services: $400,000 revenue.
+  - E-commerce Sales: $900,000 revenue.
 
-Comprehensive platform combining veterinary services and e-commerce.
-Personalized pet health recommendations.
-Low overhead with a focus on digital services.
-Weaknesses:
-
-High competition from established players like Chewy and Vetster.
-Dependency on digital marketing for customer acquisition.
-Opportunities:
-
-Growing demand for tele-vet services and subscription-based products.
-Ability to tap into international markets with minimal additional infrastructure.
-Threats:
-
-Regulatory challenges in the veterinary field (licensing for telemedicine across borders).
-Rising shipping and product fulfillment costs.
-10. Conclusions and Strategic Recommendations:
-Focus on Customer Experience: Build trust with users by offering exceptional veterinary care and high-quality products. Create a community around Zoo Fusions with educational content and interactive features like live Q&A sessions with vets.
-Leverage Data and AI: Use customer data from consultations to offer highly personalized product recommendations, which can increase sales and customer satisfaction.
-Expand Product Offerings: Explore niche products like pet tech (GPS collars, activity monitors) and pet insurance to differentiate Zoo Fusions from competitors.
+# 8. Market Trends and Opportunities:
+- **Humanization of Pets**: Pet owners are treating their pets like family, driving demand for premium products and healthcare services.
+- **Sustainability**: There is a growing market for eco-friendly pet products (toys, grooming products, food packaging) as consumers become more
 """)
 elif choice == "Business Model":
     st.header("Business Model")
