@@ -26,30 +26,28 @@ choice = st.sidebar.selectbox("Menu", menu)
 if choice == "Executive Summary":
     st.header("Executive Summary")
     st.write("""
-    PetCare Online Canada aims to become the leading online platform in Canada for pet owners seeking convenient,
+    Zoofusions aims to become one of the leading online platform in Canada for pet owners seeking convenient,
     expert veterinary consultations, grooming tutorials, and pet health tracking. 
     Alongside these services, we will offer an integrated e-commerce platform for pet supplies. 
     With the growing trend of pet ownership and demand for remote, accessible pet care services, 
-    PetCare Online Canada will meet the evolving needs of modern pet owners.
+    Zoofusions will meet the evolving needs of modern pet owners.
 
     """)
-
-
 elif choice == "Business Objectives":
     st.header("Business Objectives")
     st.write("""
-    Short-term goals (Year 1): 
+    **Short-term goals (Year 1)**: 
         Launch the platform in key Canadian cities (Toronto, Vancouver, Montreal).
-        Achieve 10,000 registered users within the first year.
-        Build partnerships with 100+ certified veterinarians and pet care professionals.
+        Achieve 5,000 registered users within the first year.
+        Build partnerships with 50+ certified veterinarians and pet care professionals.
         Integrate an e-commerce store for essential pet supplies.
 
     - **Year 2-3**: 
     Expand services nationwide.
-  - Increase registered users to 50,000.
+  - Increase registered users to 10,000.
   - Launch premium membership for unlimited veterinary consultations and discounts on pet supplies.
 
-    - **Year 5**:  Establish PetCare Online as the go-to platform for pet care in Canada.
+    - **Year 5**:  Establish Zoofusions as the go-to platform for pet care in Canada.
   - Expand into additional markets like the U.S. or the U.K.
   - Offer pet insurance services integrated with consultations.
     """)
