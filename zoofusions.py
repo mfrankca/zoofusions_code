@@ -36,7 +36,7 @@ if choice == "Executive Summary":
 elif choice == "Business Objectives":
     st.header("Business Objectives")
     st.write("""
-    **Short-term goals (Year 1)**: 
+    - **Short-term goals (Year 1)**: 
         Launch the platform in key Canadian cities (Toronto, Vancouver, Montreal).
         Achieve 5,000 registered users within the first year.
         Build partnerships with 50+ certified veterinarians and pet care professionals.
