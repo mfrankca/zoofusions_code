@@ -4,7 +4,7 @@ import os
 
 # Sidebar image
 ###image_path = ".\Logo\ZooFusions_logo.png"
-logo_image_path = os.path.join(".", "Logo", "ZooFusions_logo.png")
+image_path = os.path.join(".", "Logo", "ZooFusions_logo.png")
 
 if os.path.exists(image_path):
     st.sidebar.image(image_path, use_column_width=True)
